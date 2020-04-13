@@ -1,2 +1,0 @@
-class PercGroupsQuery
-end
