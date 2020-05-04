@@ -1,5 +1,5 @@
 # ActiveRecord
-User.where("created_at < ?", Date.new(2020))
+User.where("created_at < ?", Date.new(2020)).to_sql
 
 # Arel
 table = User.arel_table
