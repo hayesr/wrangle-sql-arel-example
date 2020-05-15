@@ -1,24 +1,11 @@
-# README
+# Wrangle Your SQL with Arel Talk
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Code from my [RailsConf 2020 talk on Arel](https://youtu.be/8pQGzsDzYEo)
 
-Things you may want to cover:
+See the `00_examples` folder for SQL examples and some not used in the talk.
 
-* Ruby version
+See `app/queries` for query objects.
 
-* System dependencies
+### License
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Standard MIT license applies, use as you like, no warranty, that sort of thing.
